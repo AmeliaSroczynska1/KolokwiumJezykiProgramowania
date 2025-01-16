@@ -7,7 +7,6 @@ import java.awt.event.ActionListener;
 
 public class MyApp {
     private JFrame frame;
-    private TextField textfield;
 
     // Konstruktor
     MyApp(String[] args) {
